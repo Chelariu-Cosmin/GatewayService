@@ -1,0 +1,10 @@
+ro\beenear\onlineshop\gatewayservice\services\ArticleServiceImpl.class
+ro\beenear\onlineshop\gatewayservice\services\ArticleService.class
+ro\beenear\onlineshop\gatewayservice\services\InventoryService.class
+ro\beenear\onlineshop\gatewayservice\services\NotificationServiceImpl.class
+ro\beenear\onlineshop\gatewayservice\services\UserServiceImpl.class
+ro\beenear\onlineshop\gatewayservice\services\InventoryServiceImpl.class
+ro\beenear\onlineshop\gatewayservice\controllers\InventoryController.class
+ro\beenear\onlineshop\gatewayservice\services\NotificationService.class
+ro\beenear\onlineshop\gatewayservice\services\UserService.class
+ro\beenear\onlineshop\gatewayservice\GatewayServiceApplication.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ro.beenear.onlineshop.gatewayservice.GatewayServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.321 s - in ro.beenear.onlineshop.gatewayservice.GatewayServiceApplicationTests
